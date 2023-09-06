@@ -1,0 +1,10 @@
+@font-face{
+    font-family:iranYekan;
+    src:url('../foonts/Yekan.eot') format('eot');
+    src:url('../foonts/Yekan.ttf') format('ttf');
+    src:url('../foonts/Yekan.woff') format('woff');
+}
+
+body{
+    font-family:iranYekan;
+}
